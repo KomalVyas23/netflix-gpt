@@ -8,6 +8,12 @@
 - Signup Form
 - Form Validation
 - useRef Hook
+- Firebase Setup
+- Deploying our app to production
+- Create Signup
+- IMplement Signin
+- Create redux store
+- Signout
 
 # Features
 - Login/ Sign Up
